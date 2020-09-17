@@ -8,8 +8,13 @@ DESCARGUE EL ARCHIVO "shell_final.jar" PARA EJECUTAR LA APLICACION VIA VENTANA D
 
 UTILIZANDO EL SIGUIENTE COMANDO:
 
-java -jar Ruta_del_archivo/shell_final.jar
+  java -jar /Ruta_del_archivo/shell_final.jar
+
+REMPLACE ruta_del_archivo POR SU PROPIA RUTA, EJEMPLO PROPIO:
+
+  java -jar /Users/juancamilo/Documents/shell_final.jar
 
 O ACCEDIENDO DIRECTAMENTE A LA CARPETA QUE CONTENGA EL ARCHIVO DESCARGADO CON
 
-java -jar shell_final.jar
+  java -jar shell_final.jar
+  
